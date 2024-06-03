@@ -1,3 +1,4 @@
+Fujian Zhao, Lianhan Huang, Yujun Mao
 # Collective-Robotic-Construction-CRC-
 Agent Based Model for robotic construction.
 # How to play it?
